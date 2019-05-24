@@ -1,4 +1,3 @@
-# FashionDxSubmission
 
 1. renaming.py 
 
